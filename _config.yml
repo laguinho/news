@@ -1,5 +1,10 @@
+title: Laginho News
+
 url: https://news.laguinho.org
 timezone: America/Sao_Paulo
 
 sass:
-	style: compressed
+  style: compressed
+
+permalink: pretty
+exclude: ["LICENSE", "README.md", "CNAME"]
